@@ -1,0 +1,11 @@
+/Users/rique/Desktop/dotnet--practice/bin/Debug/netcoreapp2.2/dotnet--practice.deps.json
+/Users/rique/Desktop/dotnet--practice/bin/Debug/netcoreapp2.2/dotnet--practice.runtimeconfig.json
+/Users/rique/Desktop/dotnet--practice/bin/Debug/netcoreapp2.2/dotnet--practice.runtimeconfig.dev.json
+/Users/rique/Desktop/dotnet--practice/bin/Debug/netcoreapp2.2/dotnet--practice.dll
+/Users/rique/Desktop/dotnet--practice/bin/Debug/netcoreapp2.2/dotnet--practice.pdb
+/Users/rique/Desktop/dotnet--practice/obj/Debug/netcoreapp2.2/dotnet--practice.csprojAssemblyReference.cache
+/Users/rique/Desktop/dotnet--practice/obj/Debug/netcoreapp2.2/dotnet--practice.csproj.CoreCompileInputs.cache
+/Users/rique/Desktop/dotnet--practice/obj/Debug/netcoreapp2.2/dotnet--practice.AssemblyInfoInputs.cache
+/Users/rique/Desktop/dotnet--practice/obj/Debug/netcoreapp2.2/dotnet--practice.AssemblyInfo.cs
+/Users/rique/Desktop/dotnet--practice/obj/Debug/netcoreapp2.2/dotnet--practice.dll
+/Users/rique/Desktop/dotnet--practice/obj/Debug/netcoreapp2.2/dotnet--practice.pdb
